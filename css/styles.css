@@ -1,0 +1,106 @@
+body{
+    background: #58545c;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.defstyle{
+    width: 800px;
+    height: auto;
+    margin: 50px auto 0px;
+    background: white;
+}
+.info{
+    text-align: center;
+}
+.icop{
+    width: 100px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.nom{
+    padding: 0;
+    margin: 0px 175px 0px 175px;
+    border-bottom: 2px solid;
+}
+.prof{
+    padding: 0;
+    margin-top: 10px;
+    font-size: 18px;
+}
+.resume{
+    text-align: center;
+    font-size: 12px;
+    margin: 20px 55px 0px 55px;
+    padding: 10px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid;
+}
+.datos{
+    width: 800px;
+    height: auto;
+    margin: 0px auto;
+    display: flex;
+    background: white;
+}
+.datosizq{
+    width: 280px;
+    margin: 10px;
+    padding-left: 50px;
+    padding-right: 20px;
+    border-right: 2px solid;
+}
+.datosder{
+    margin: 10px;
+    padding-right: 50px;
+    padding-left: 20px;
+}
+.subt{
+    font-size: 18px;
+}
+.dato{
+    font-size: 12px;
+    padding-left: 5px;
+}
+.datolink{
+    font-size: 10px;
+    padding-left: 5px;
+    text-decoration: underline;
+}
+.listc{
+    list-style: none;
+    display: flex;
+}
+.separador{
+    border-bottom: 2px solid;
+}
+.icono{
+    width: 23px;
+}
+.datosr{
+    display: flex;
+}
+.persref{
+    padding-right: 75px;
+}
+.listder{
+    list-style: none;
+}
+.grado{
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 4px;
+}
+.instituto{
+    font-size: 15px;
+    padding-left: 4px;
+}
+
+.txtf{
+    font-size: 17px;
+    text-decoration: underline;
+    padding-top: 35px;
+    padding-left: 10px;
+}
+
+.icof{
+    width: 100px;
+}
